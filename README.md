@@ -1,4 +1,4 @@
-# WowFi Funding Proposal(9lives-agent)
+# WowFi Funding Proposal(9lives-agent) <img src="9lives_logo.png" alt="9Lives Logo" height="28" style="vertical-align: middle;">
 
 ## Core Vision
 

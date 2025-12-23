@@ -18,7 +18,7 @@ An autonomous prediction system operating on high-impact assets (BTC, GOLD, MONA
 
 <img src="9lives_agent_diagram.png" alt="9Lives Agent Architecture" width="600">
 
-### What Makes It Unique
+### Unique Infra
 
 **CVAS Pipeline** (Cross-Validation Analysis Stack)
 - Aggregates and filters global data sources
@@ -109,10 +109,10 @@ Architecture built. CVAS operational. Agent live in testing.
 
 ## Technical Architecture
 
-[Reference diagram: CVAS data flow → 9Lives Agent → RAG reasoning → Prediction output with continuous retraining loop]
+[Reference diagram: CVAS data flow → 9Lives Agent → RAG + custom reasoning → Prediction output with continuous retraining loop]
 
 Full technical documentation: http://docs.wowfi.xyz/docs/features/9lives-agent
 
 ---
 
-**We're not building another trading bot. We're building the intelligence layer for the next generation of prediction markets.**
+**Not an another trading bot. This is the intelligence layer for the next generation of prediction markets.**

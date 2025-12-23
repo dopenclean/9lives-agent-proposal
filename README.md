@@ -1,4 +1,4 @@
-# WowFi Funding Proposal(9lives-agent) <img src="9lives_logo.png" alt="9Lives Logo" height="28" style="vertical-align: middle;">
+# WowFi Funding Proposal(9lives-agent) <img src="9lives_logo.png" alt="9Lives Logo" height="35" style="vertical-align: middle;">
 
 ## Core Vision
 
@@ -6,7 +6,7 @@ WowFi operates across three interconnected verticals:
 
 1. **Crypto Currencies** → Trading intelligence
 2. **Projects** → Discovery and investment analysis
-3. **9Lives Agent** → Prediction market model *(Priority One)*
+3. **9Lives Agent** → Prediction market model {both intel and agent} *(Priority One)*
 
 The 9Lives Agent is our differentiator—simultaneously a proprietary reasoning engine and an integrated real-time prediction tool.
 

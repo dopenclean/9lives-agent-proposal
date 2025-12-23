@@ -16,7 +16,7 @@ The 9Lives Agent is our differentiator—simultaneously a proprietary reasoning 
 
 An autonomous prediction system operating on high-impact assets (BTC, GOLD, MONAD, NVIDIA) with hourly and daily market resolutions via 9lives.so.
 
-<img src="9lives_agent_diagram.png" alt="9Lives Agent Architecture" width="600">
+<img src="9lives_agent_diagram.png" alt="9Lives Agent Architecture" width="800">
 
 ### Unique Infra
 
@@ -109,7 +109,7 @@ Architecture built. CVAS operational. Agent live in testing.
 
 ## Technical Architecture
 
-[Reference diagram: CVAS data flow → 9Lives Agent → RAG + custom reasoning → Prediction output with continuous retraining loop]
+<img src="Architecture_TVP.png" alt="9Lives Agent Architecture" width="600">
 
 Full technical documentation: http://docs.wowfi.xyz/docs/features/9lives-agent
 
